@@ -14,8 +14,9 @@
 
 **Organization**
 
-(Group 1) AGN and coevolution (Morpho-SED techniques): Ruancun LI, Changhao CHEN, Rong DU, Jiwei LIAO, Yilin LUO, Haotian XIAO
-(Group 2) Galaxy evolution (imaging processing techniques): Chao MA, Wen SUN, Yang LI, Pinsong ZHAO, Bingcheng JIN, Yixiao LV
+*Group 1* AGN and coevolution (Morpho-SED techniques): Ruancun LI, Changhao CHEN, Rong DU, Jiwei LIAO, Yilin LUO, Haotian XIAO
+
+*Group 2* Galaxy evolution (Image processing techniques): Chao MA, Wen SUN, Yang LI, Pinsong ZHAO, Bingcheng JIN, Yixiao LV
 Both: Alexander LU, Kunyao ZHAO, Jianyuan LUO
 
 
