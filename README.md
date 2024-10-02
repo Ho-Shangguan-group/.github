@@ -24,3 +24,12 @@ Both: Alexander LU, Kunyao ZHAO, Jianyuan LUO
 **Meeting Notes**
 
 We will use this [spreadsheet](https://docs.google.com/spreadsheets/d/1fz-W2Ac-BEfjz54FO0OJxZ6Q9x-fVJni0cS5_LmZP-s/edit?usp=sharing) to record the group meeting and relevant arXiv papers.
+
+
+**Contacts**
+
+Jinyi SHANGGUAN (shangguan@pku.edu.cn)
+Ruancun LI (liruancun@pku.edu.cn)
+Changhao CHEN (cchen_louis@stu.pku.edu.cn)
+Wen SUN (sunwen@stu.pku.edu.cn)
+Chao MA (machao@pku.edu.cn)
