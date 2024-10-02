@@ -29,7 +29,11 @@ We will use this [spreadsheet](https://docs.google.com/spreadsheets/d/1fz-W2Ac-B
 **Contacts**
 
 Jinyi SHANGGUAN (shangguan@pku.edu.cn)
+
 Ruancun LI (liruancun@pku.edu.cn)
+
 Changhao CHEN (cchen_louis@stu.pku.edu.cn)
+
 Wen SUN (sunwen@stu.pku.edu.cn)
+
 Chao MA (machao@pku.edu.cn)
